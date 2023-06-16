@@ -1,5 +1,7 @@
 # My Code Basics Certificates:
 
+# My Code Basics Courses:
+
 ## EN:
 
 ![js](https://github.com/wetresfall/hexlet-basics/assets/77758805/3e200bf3-e574-4be1-8d7c-488bd2175d56)

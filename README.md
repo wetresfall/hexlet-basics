@@ -1,5 +1,3 @@
-# My Code Basics Certificates:
-
 # My Code Basics Courses:
 
 ## EN:
